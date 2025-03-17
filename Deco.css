@@ -1,0 +1,12 @@
+.button {
+    background-color: #ffe8ec;
+    appearance: none;
+    border: 1px solid pink;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button:active {
+    background-color: white;
+}
